@@ -1,0 +1,70 @@
+_repo: Half-Hours-With-Modern-Scientists-Lectures-and-Essays_66177
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Porter, Noah
+    alias: Porter, N. (Noah)
+    birthdate: 1811
+    deathdate: 1892
+    gutenberg_agent_id: '53634'
+    url: http://www.gutenberg.org/2009/agents/53634
+    wikipedia: https://en.wikipedia.org/wiki/Noah_Porter
+creator:
+  authors:
+  - agent_name: Cope, E. D. (Edward Drinker)
+    alias: Cope, Edward Drinker
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '53671'
+    url: http://www.gutenberg.org/2009/agents/53671
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Drinker_Cope
+  - agent_name: Stirling, James Hutchison
+    birthdate: 1820
+    deathdate: 1909
+    gutenberg_agent_id: '53670'
+    url: http://www.gutenberg.org/2009/agents/53670
+    wikipedia: https://en.wikipedia.org/wiki/James_Hutchison_Stirling
+  - agent_name: Tyndall, John
+    alias: Tyndal, John
+    birthdate: 1820
+    deathdate: 1893
+    gutenberg_agent_id: '561'
+    url: http://www.gutenberg.org/2009/agents/561
+    wikipedia: https://en.wikipedia.org/wiki/John_Tyndall
+  - agent_name: Barker, George F. (George Frederick)
+    aliases:
+    - Barker, George Frederick
+    - Barker, Geo. F. (George Frederick)
+    - Barker, G. F.
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53669'
+    url: http://www.gutenberg.org/2009/agents/53669
+    wikipedia: https://en.wikipedia.org/wiki/George_Frederick_Barker
+  - agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_issued: '2021-08-30'
+identifiers:
+  gutenberg: '66177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science'
+- !lcc 'Q'
+- GITenberg
+tableOfContents: 'General introduction, by N. Porter -- On the physical basis of life,
+  by T.H. Huxley -- The correlation of vital and physical forces, by G.F. Barker --
+  As regards protoplasm: reply to Huxley, by J.H. Stirling -- On the hypothesis of
+  evolution: physical and metaphysical, by E.D. Cope -- Scientific addresses by J.
+  Tyndall: On the methods and tendencies of physical investigation. On haze and dust.
+  On the scientific uses of the imagination.'
+title: 'Half Hours With Modern Scientists: Lectures and Essays'
+url: http://www.gutenberg.org/ebooks/66177
