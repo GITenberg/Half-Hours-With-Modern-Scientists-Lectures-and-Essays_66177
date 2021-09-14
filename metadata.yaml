@@ -1,5 +1,5 @@
 _repo: Half-Hours-With-Modern-Scientists-Lectures-and-Essays_66177
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Porter, Noah
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53634'
     url: http://www.gutenberg.org/2009/agents/53634
     wikipedia: https://en.wikipedia.org/wiki/Noah_Porter
+covers:
+- cover_type: archival
+  image_path: 66177-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Cope, E. D. (Edward Drinker)
@@ -49,6 +52,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/595
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Henry_Huxley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66177#Half-Hours-With-Modern-Scientists-Lectures-and-Essays
 gutenberg_issued: '2021-08-30'
 identifiers:
   gutenberg: '66177'
